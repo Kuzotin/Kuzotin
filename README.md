@@ -1,4 +1,4 @@
 - 👋 Salut, moi c'est Kuzotin
 - 🚴‍♂️ Je fais du cyclisme (comme le Tour de France)
 - 🌱 Je travaille sur un Bot Discord en Python
-- 📫 Mon Discord : Kuzotin#1112
+- 📫 Mon Discord : Kuzo Tin#1112
